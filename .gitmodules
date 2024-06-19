@@ -5,6 +5,3 @@
 [submodule "CoDaImpact"]
 	path = CoDaImpact
 	url = https://github.com/lukece/codaimpact
-[submodule "spflow"]
-	path = spflow
-	url = https://github.com/lukece/spflow
